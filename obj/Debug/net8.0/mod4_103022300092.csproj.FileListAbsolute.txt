@@ -1,0 +1,15 @@
+D:\test\mod4_103022300092\bin\Debug\net8.0\mod4_103022300092.exe
+D:\test\mod4_103022300092\bin\Debug\net8.0\mod4_103022300092.deps.json
+D:\test\mod4_103022300092\bin\Debug\net8.0\mod4_103022300092.runtimeconfig.json
+D:\test\mod4_103022300092\bin\Debug\net8.0\mod4_103022300092.dll
+D:\test\mod4_103022300092\bin\Debug\net8.0\mod4_103022300092.pdb
+D:\test\mod4_103022300092\obj\Debug\net8.0\mod4_103022300092.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\mod4_103022300092\obj\Debug\net8.0\mod4_103022300092.AssemblyInfoInputs.cache
+D:\test\mod4_103022300092\obj\Debug\net8.0\mod4_103022300092.AssemblyInfo.cs
+D:\test\mod4_103022300092\obj\Debug\net8.0\mod4_103022300092.csproj.CoreCompileInputs.cache
+D:\test\mod4_103022300092\obj\Debug\net8.0\mod4_103022300092.sourcelink.json
+D:\test\mod4_103022300092\obj\Debug\net8.0\mod4_103022300092.dll
+D:\test\mod4_103022300092\obj\Debug\net8.0\refint\mod4_103022300092.dll
+D:\test\mod4_103022300092\obj\Debug\net8.0\mod4_103022300092.pdb
+D:\test\mod4_103022300092\obj\Debug\net8.0\mod4_103022300092.genruntimeconfig.cache
+D:\test\mod4_103022300092\obj\Debug\net8.0\ref\mod4_103022300092.dll
